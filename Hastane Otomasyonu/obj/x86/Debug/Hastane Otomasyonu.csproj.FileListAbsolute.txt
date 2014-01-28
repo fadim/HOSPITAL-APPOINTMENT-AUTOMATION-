@@ -1,0 +1,24 @@
+c:\users\genetic\documents\visual studio 2010\Projects\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\genetic\documents\visual studio 2010\Projects\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane_Otomasyonu.Form1.resources
+c:\users\genetic\documents\visual studio 2010\Projects\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+c:\users\genetic\documents\visual studio 2010\Projects\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\genetic\documents\visual studio 2010\Projects\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\genetic\documents\visual studio 2010\Projects\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe
+c:\users\genetic\documents\visual studio 2010\Projects\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.pdb
+c:\users\genetic\documents\visual studio 2010\Projects\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane Otomasyonu.exe
+c:\users\genetic\documents\visual studio 2010\Projects\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane Otomasyonu.pdb
+c:\users\genetic\documents\visual studio 2010\Projects\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane_Otomasyonu.frmLOGIN.resources
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane Otomasyonu.exe
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane Otomasyonu.pdb
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane_Otomasyonu.frmLOGIN.resources
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.pdb
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane_Otomasyonu.frmDoktorEkle.resources
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane_Otomasyonu.frmAnaEkran.resources
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane_Otomasyonu.frmHastaEkle.resources
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane_Otomasyonu.frmRandevu.resources
+C:\Users\Genetic\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\obj\x86\Debug\Hastane_Otomasyonu.frmKullanıcıEkle.resources
